@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21417257741",
+    "project_id": "barber-online-546d7",
+    "storage_bucket": "barber-online-546d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21417257741:android:5c02ad9412d61da9fb1e44",
+        "android_client_info": {
+          "package_name": "com.ankur26"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21417257741-c2l99lvtvh4tsohnruvoi2cid5b2q080.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJn7qNKdn2zlAyU3rbA35UpD1_qsfvfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21417257741-c2l99lvtvh4tsohnruvoi2cid5b2q080.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

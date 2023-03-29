@@ -1,0 +1,15 @@
+
+export var data = [
+  {id:1,image:require('../img/a.jpg'),Name:"Fade Hair Cutting Style",Rate:"250",Deatil:"A fade haircut is one of those classic barber styles that are as unique as the individual who wears one.There are many different ways to clipper the head, and a fade is the perfect example of short haircuts for men that are perfectly blended from top to bottom. Before you venture to the salon or shop, you should know a few general basics about this cut. Pictures speak volumes when it comes to communicating with your barber or stylist. If you just say you want a fade haircut,  you may no idea what you’ll end up with. Read on to understand how to do this short clipper cut and what it entails"},
+  {id:2,image:require('../img/b.jpg'),Name:"Slick Pompadour Style",  Rate:"350",Deatil:"If you’ve got thinner tresses, you can still work your hair up into a modern pompadour fade by using some volumising mousse and pomade, to truly mould your hair and keep it in place."},
+  {id:3,image:require('../img/c.jpg'),Name:"The French Crop Hair ",  Rate:"260",Deatil:"Neat, masculine and timeless, the French crop boasts several benefits and is great for those who want to keep it short, but relatively stylised."},
+  {id:4,image:require('../img/d.jpg'),Name:" Short Razored Cut Style",Rate:"400",Deatil:"Razor cutting is a technique that involves slicing and texturising the hair with the use of knife-like razors. For men with thin or fine hair, try keeping the top fairly short with shorter back and sides."},
+  {id:5,image:require('../img/e.png'),Name:"Semi-long and Slicked Back",Rate:"500",Deatil:"For a more dapper look with some retro vibes, keep the top about medium length and the sides only a tad shorter."},
+  {id:6,image:require('../img/f.jpg'),Name:"Minimalist Quiff Style",  Rate:"550",Deatil:"First of all, a quiff can work for men of all ages, and while being perfect for making a statement, it doesn’t have to be a big one. How extreme you go is entirely up to how large your personality is."},
+  {id:7,image:require('../img/g.jpg'),Name:"Textured Top Style",      Rate:"150",Deatil:"If you’ve got thin hair, choosing a textured cut with lots of angles and definition creates plenty of interest and can give the illusion of thicker tresses"},
+  {id:8,image:require('../img/h.jpg'),Name:"Skin Fade Style",         Rate:"290",Deatil:"The contrast between the dramatic skin fade and the swept-over length on top really helps to detract from thin hair."},
+  {id:9,image:require('../img/i.jpg'),Name:"Classic Short Hair Style",Rate:"650",Deatil:"This classic and stylish short hairdo is perfect for fellas who like the more preppy look. This is a great one, if you want to keep you hairstyle on the smarter side."},
+  {id:10,image:require('../img/j.jpg'),Name:"Short Sides and Combover",Rate:"580",Deatil:"Keep the sides of your hair neatly buzzed, and rock a longer length on top. Sweep the longer section back, for an incredibly suave look, that will make your hair look full and thick. "},
+  
+  
+]
